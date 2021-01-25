@@ -1,0 +1,1177 @@
+[
+  {
+    "name": "Lima",
+    "pop": 7737002,
+    "location": "https://www.google.com/maps/?q=-12.0432,-77.0282"
+  },
+  {
+    "name": "Arequipa",
+    "pop": 841130,
+    "location": "https://www.google.com/maps/?q=-16.3989,-71.535"
+  },
+  {
+    "name": "Callao",
+    "pop": 813264,
+    "location": "https://www.google.com/maps/?q=-12.0566,-77.1181"
+  },
+  {
+    "name": "Trujillo",
+    "pop": 747450,
+    "location": "https://www.google.com/maps/?q=-8.11599,-79.03"
+  },
+  {
+    "name": "Chiclayo",
+    "pop": 577375,
+    "location": "https://www.google.com/maps/?q=-6.77137,-79.8409"
+  },
+  {
+    "name": "Iquitos",
+    "pop": 437620,
+    "location": "https://www.google.com/maps/?q=-3.74912,-73.2538"
+  },
+  {
+    "name": "Huancayo",
+    "pop": 376657,
+    "location": "https://www.google.com/maps/?q=-12.0651,-75.2049"
+  },
+  {
+    "name": "Piura",
+    "pop": 325466,
+    "location": "https://www.google.com/maps/?q=-5.19449,-80.6328"
+  },
+  {
+    "name": "Chimbote",
+    "pop": 316966,
+    "location": "https://www.google.com/maps/?q=-9.08528,-78.5783"
+  },
+  {
+    "name": "Cusco",
+    "pop": 312140,
+    "location": "https://www.google.com/maps/?q=-13.5226,-71.9673"
+  },
+  {
+    "name": "Pucallpa",
+    "pop": 310750,
+    "location": "https://www.google.com/maps/?q=-8.37915,-74.5539"
+  },
+  {
+    "name": "Tacna",
+    "pop": 280098,
+    "location": "https://www.google.com/maps/?q=-18.0147,-70.2536"
+  },
+  {
+    "name": "Santiago de Surco",
+    "pop": 251648,
+    "location": "https://www.google.com/maps/?q=-12.1359,-77.0074"
+  },
+  {
+    "name": "Ica",
+    "pop": 246844,
+    "location": "https://www.google.com/maps/?q=-14.0678,-75.7286"
+  },
+  {
+    "name": "Juliaca",
+    "pop": 245675,
+    "location": "https://www.google.com/maps/?q=-15.5,-70.1333"
+  },
+  {
+    "name": "Sullana",
+    "pop": 160789,
+    "location": "https://www.google.com/maps/?q=-4.90389,-80.6853"
+  },
+  {
+    "name": "Chincha Alta",
+    "pop": 153076,
+    "location": "https://www.google.com/maps/?q=-13.4099,-76.1323"
+  },
+  {
+    "name": "Huanuco",
+    "pop": 147959,
+    "location": "https://www.google.com/maps/?q=-9.93062,-76.2422"
+  },
+  {
+    "name": "Ayacucho",
+    "pop": 140033,
+    "location": "https://www.google.com/maps/?q=-13.1588,-74.2232"
+  },
+  {
+    "name": "Cajamarca",
+    "pop": 135000,
+    "location": "https://www.google.com/maps/?q=-7.16378,-78.5003"
+  },
+  {
+    "name": "Puno",
+    "pop": 116552,
+    "location": "https://www.google.com/maps/?q=-15.8422,-70.0199"
+  },
+  {
+    "name": "Tumbes",
+    "pop": 109223,
+    "location": "https://www.google.com/maps/?q=-3.56694,-80.4515"
+  },
+  {
+    "name": "Talara",
+    "pop": 99074,
+    "location": "https://www.google.com/maps/?q=-4.57722,-81.2719"
+  },
+  {
+    "name": "Chosica",
+    "pop": 88606,
+    "location": "https://www.google.com/maps/?q=-11.9431,-76.7094"
+  },
+  {
+    "name": "Huaraz",
+    "pop": 86934,
+    "location": "https://www.google.com/maps/?q=-9.52779,-77.5278"
+  },
+  {
+    "name": "Cerro de Pasco",
+    "pop": 78910,
+    "location": "https://www.google.com/maps/?q=-10.6675,-76.2567"
+  },
+  {
+    "name": "Chulucanas",
+    "pop": 68835,
+    "location": "https://www.google.com/maps/?q=-5.0925,-80.1625"
+  },
+  {
+    "name": "San Isidro",
+    "pop": 68309,
+    "location": "https://www.google.com/maps/?q=-12.1167,-77.05"
+  },
+  {
+    "name": "Huaral",
+    "pop": 62174,
+    "location": "https://www.google.com/maps/?q=-11.495,-77.2078"
+  },
+  {
+    "name": "Pisco",
+    "pop": 61869,
+    "location": "https://www.google.com/maps/?q=-13.7103,-76.2054"
+  },
+  {
+    "name": "Catacaos",
+    "pop": 57304,
+    "location": "https://www.google.com/maps/?q=-5.26667,-80.6833"
+  },
+  {
+    "name": "Paita",
+    "pop": 56151,
+    "location": "https://www.google.com/maps/?q=-5.08917,-81.1144"
+  },
+  {
+    "name": "Abancay",
+    "pop": 55111,
+    "location": "https://www.google.com/maps/?q=-13.6339,-72.8814"
+  },
+  {
+    "name": "Huacho",
+    "pop": 54545,
+    "location": "https://www.google.com/maps/?q=-11.1067,-77.605"
+  },
+  {
+    "name": "Moquegua",
+    "pop": 54517,
+    "location": "https://www.google.com/maps/?q=-17.1983,-70.9357"
+  },
+  {
+    "name": "Ilo",
+    "pop": 53476,
+    "location": "https://www.google.com/maps/?q=-17.6318,-71.3411"
+  },
+  {
+    "name": "Tingo Maria",
+    "pop": 53177,
+    "location": "https://www.google.com/maps/?q=-9.29532,-75.9957"
+  },
+  {
+    "name": "Jaen",
+    "pop": 52493,
+    "location": "https://www.google.com/maps/?q=-5.70729,-78.8079"
+  },
+  {
+    "name": "Tarma",
+    "pop": 51350,
+    "location": "https://www.google.com/maps/?q=-11.419,-75.6899"
+  },
+  {
+    "name": "Barranca",
+    "pop": 46290,
+    "location": "https://www.google.com/maps/?q=-10.75,-77.7667"
+  },
+  {
+    "name": "Moyobamba",
+    "pop": 44276,
+    "location": "https://www.google.com/maps/?q=-6.03416,-76.9717"
+  },
+  {
+    "name": "Lambayeque",
+    "pop": 43710,
+    "location": "https://www.google.com/maps/?q=-6.70111,-79.9061"
+  },
+  {
+    "name": "Picsi",
+    "pop": 43610,
+    "location": "https://www.google.com/maps/?q=-6.71778,-79.7697"
+  },
+  {
+    "name": "Chepen",
+    "pop": 41992,
+    "location": "https://www.google.com/maps/?q=-7.22436,-79.4248"
+  },
+  {
+    "name": "Yurimaguas",
+    "pop": 41827,
+    "location": "https://www.google.com/maps/?q=-5.90181,-76.1223"
+  },
+  {
+    "name": "Huancavelica",
+    "pop": 41576,
+    "location": "https://www.google.com/maps/?q=-12.7826,-74.9727"
+  },
+  {
+    "name": "Sana",
+    "pop": 39200,
+    "location": "https://www.google.com/maps/?q=-6.91888,-79.582"
+  },
+  {
+    "name": "Tambopata",
+    "pop": 38966,
+    "location": "https://www.google.com/maps/?q=-12.6719,-69.3555"
+  },
+  {
+    "name": "Juanjui",
+    "pop": 37715,
+    "location": "https://www.google.com/maps/?q=-7.17697,-76.7277"
+  },
+  {
+    "name": "Puerto Maldonado",
+    "pop": 37543,
+    "location": "https://www.google.com/maps/?q=-12.5933,-69.1891"
+  },
+  {
+    "name": "La Union",
+    "pop": 34834,
+    "location": "https://www.google.com/maps/?q=-5.40232,-80.7422"
+  },
+  {
+    "name": "Ferrenafe",
+    "pop": 34357,
+    "location": "https://www.google.com/maps/?q=-6.63889,-79.7889"
+  },
+  {
+    "name": "Sicuani",
+    "pop": 33575,
+    "location": "https://www.google.com/maps/?q=-14.2694,-71.2261"
+  },
+  {
+    "name": "La Oroya",
+    "pop": 33345,
+    "location": "https://www.google.com/maps/?q=-11.5189,-75.8994"
+  },
+  {
+    "name": "Chocope",
+    "pop": 32370,
+    "location": "https://www.google.com/maps/?q=-7.79139,-79.2217"
+  },
+  {
+    "name": "Imperial",
+    "pop": 32344,
+    "location": "https://www.google.com/maps/?q=-13.0593,-76.3527"
+  },
+  {
+    "name": "Nuevo Imperial",
+    "pop": 32344,
+    "location": "https://www.google.com/maps/?q=-13.0754,-76.3172"
+  },
+  {
+    "name": "Tambo Grande",
+    "pop": 30033,
+    "location": "https://www.google.com/maps/?q=-4.92694,-80.3447"
+  },
+  {
+    "name": "La Rinconada",
+    "pop": 29678,
+    "location": "https://www.google.com/maps/?q=-14.6313,-69.4464"
+  },
+  {
+    "name": "Pacasmayo",
+    "pop": 29165,
+    "location": "https://www.google.com/maps/?q=-7.40056,-79.5714"
+  },
+  {
+    "name": "Tocache",
+    "pop": 29029,
+    "location": "https://www.google.com/maps/?q=-8.1877,-76.5205"
+  },
+  {
+    "name": "Mollendo",
+    "pop": 28953,
+    "location": "https://www.google.com/maps/?q=-17.0231,-72.0147"
+  },
+  {
+    "name": "Chaupimarca",
+    "pop": 28666,
+    "location": "https://www.google.com/maps/?q=-10.407,-76.4617"
+  },
+  {
+    "name": "Paramonga",
+    "pop": 27631,
+    "location": "https://www.google.com/maps/?q=-10.6667,-77.8333"
+  },
+  {
+    "name": "La Peca",
+    "pop": 27045,
+    "location": "https://www.google.com/maps/?q=-5.61111,-78.435"
+  },
+  {
+    "name": "Chancay",
+    "pop": 26958,
+    "location": "https://www.google.com/maps/?q=-11.5714,-77.2672"
+  },
+  {
+    "name": "Hualmay",
+    "pop": 26658,
+    "location": "https://www.google.com/maps/?q=-11.0964,-77.6139"
+  },
+  {
+    "name": "Monsefu",
+    "pop": 25707,
+    "location": "https://www.google.com/maps/?q=-6.87431,-79.8687"
+  },
+  {
+    "name": "Marcavelica",
+    "pop": 25645,
+    "location": "https://www.google.com/maps/?q=-4.87778,-80.7053"
+  },
+  {
+    "name": "San Vicente de Canete",
+    "pop": 25517,
+    "location": "https://www.google.com/maps/?q=-13.0756,-76.3853"
+  },
+  {
+    "name": "Querecotillo",
+    "pop": 25396,
+    "location": "https://www.google.com/maps/?q=-4.83778,-80.6456"
+  },
+  {
+    "name": "Guadalupe",
+    "pop": 25376,
+    "location": "https://www.google.com/maps/?q=-7.25,-79.4833"
+  },
+  {
+    "name": "Santa Ana",
+    "pop": 25145,
+    "location": "https://www.google.com/maps/?q=-12.8667,-72.7167"
+  },
+  {
+    "name": "Rioja",
+    "pop": 25057,
+    "location": "https://www.google.com/maps/?q=-6.05675,-77.1665"
+  },
+  {
+    "name": "Laredo",
+    "pop": 24691,
+    "location": "https://www.google.com/maps/?q=-8.08965,-78.9602"
+  },
+  {
+    "name": "Nazca",
+    "pop": 23556,
+    "location": "https://www.google.com/maps/?q=-14.831,-74.9389"
+  },
+  {
+    "name": "Yanacancha",
+    "pop": 23175,
+    "location": "https://www.google.com/maps/?q=-10.2411,-76.6456"
+  },
+  {
+    "name": "Sechura",
+    "pop": 23020,
+    "location": "https://www.google.com/maps/?q=-5.55694,-80.8222"
+  },
+  {
+    "name": "Moche",
+    "pop": 22581,
+    "location": "https://www.google.com/maps/?q=-8.17111,-79.0092"
+  },
+  {
+    "name": "Santiago de Cao",
+    "pop": 21982,
+    "location": "https://www.google.com/maps/?q=-7.95889,-79.2392"
+  },
+  {
+    "name": "Huamachuco",
+    "pop": 21768,
+    "location": "https://www.google.com/maps/?q=-7.8,-78.0667"
+  },
+  {
+    "name": "Paijan",
+    "pop": 21128,
+    "location": "https://www.google.com/maps/?q=-7.73291,-79.3015"
+  },
+  {
+    "name": "Jauja",
+    "pop": 21057,
+    "location": "https://www.google.com/maps/?q=-11.7758,-75.4966"
+  },
+  {
+    "name": "Viru",
+    "pop": 20774,
+    "location": "https://www.google.com/maps/?q=-8.41554,-78.752"
+  },
+  {
+    "name": "Huaura",
+    "pop": 20723,
+    "location": "https://www.google.com/maps/?q=-11.07,-77.5994"
+  },
+  {
+    "name": "Bagua Grande",
+    "pop": 20382,
+    "location": "https://www.google.com/maps/?q=-5.75611,-78.4411"
+  },
+  {
+    "name": "Chachapoyas",
+    "pop": 20279,
+    "location": "https://www.google.com/maps/?q=-6.23169,-77.869"
+  },
+  {
+    "name": "Ayaviri",
+    "pop": 19310,
+    "location": "https://www.google.com/maps/?q=-14.8864,-70.5889"
+  },
+  {
+    "name": "Huanta",
+    "pop": 18627,
+    "location": "https://www.google.com/maps/?q=-12.9333,-74.25"
+  },
+  {
+    "name": "Uchiza",
+    "pop": 17742,
+    "location": "https://www.google.com/maps/?q=-8.45917,-76.4633"
+  },
+  {
+    "name": "La Breita",
+    "pop": 17693,
+    "location": "https://www.google.com/maps/?q=-4.25691,-80.886"
+  },
+  {
+    "name": "Andahuaylas",
+    "pop": 17444,
+    "location": "https://www.google.com/maps/?q=-13.6556,-73.3872"
+  },
+  {
+    "name": "Mala",
+    "pop": 17260,
+    "location": "https://www.google.com/maps/?q=-12.6581,-76.6308"
+  },
+  {
+    "name": "Zarumilla",
+    "pop": 16907,
+    "location": "https://www.google.com/maps/?q=-3.50306,-80.2731"
+  },
+  {
+    "name": "Camana",
+    "pop": 16434,
+    "location": "https://www.google.com/maps/?q=-16.6238,-72.7105"
+  },
+  {
+    "name": "San Pedro de Lloc",
+    "pop": 16250,
+    "location": "https://www.google.com/maps/?q=-7.4289,-79.5042"
+  },
+  {
+    "name": "Huarmey",
+    "pop": 16172,
+    "location": "https://www.google.com/maps/?q=-10.0681,-78.1522"
+  },
+  {
+    "name": "Yunguyo",
+    "pop": 16140,
+    "location": "https://www.google.com/maps/?q=-16.25,-69.0833"
+  },
+  {
+    "name": "Chongoyape",
+    "pop": 16061,
+    "location": "https://www.google.com/maps/?q=-6.64056,-79.3892"
+  },
+  {
+    "name": "Ilave",
+    "pop": 16033,
+    "location": "https://www.google.com/maps/?q=-16.0833,-69.6667"
+  },
+  {
+    "name": "San Clemente",
+    "pop": 15815,
+    "location": "https://www.google.com/maps/?q=-13.6667,-76.15"
+  },
+  {
+    "name": "Pimentel",
+    "pop": 15552,
+    "location": "https://www.google.com/maps/?q=-6.83667,-79.9342"
+  },
+  {
+    "name": "Satipo",
+    "pop": 15532,
+    "location": "https://www.google.com/maps/?q=-11.2522,-74.6386"
+  },
+  {
+    "name": "Minas de Marcona",
+    "pop": 15478,
+    "location": "https://www.google.com/maps/?q=-15.2119,-75.1103"
+  },
+  {
+    "name": "Junin",
+    "pop": 15320,
+    "location": "https://www.google.com/maps/?q=-11.1589,-75.993"
+  },
+  {
+    "name": "Bellavista",
+    "pop": 15231,
+    "location": "https://www.google.com/maps/?q=-7.05614,-76.5911"
+  },
+  {
+    "name": "Coishco",
+    "pop": 15083,
+    "location": "https://www.google.com/maps/?q=-9.02306,-78.6156"
+  },
+  {
+    "name": "Chicama",
+    "pop": 14915,
+    "location": "https://www.google.com/maps/?q=-7.84472,-79.1469"
+  },
+  {
+    "name": "Saposoa",
+    "pop": 14894,
+    "location": "https://www.google.com/maps/?q=-6.93395,-76.7716"
+  },
+  {
+    "name": "Santa Maria",
+    "pop": 14853,
+    "location": "https://www.google.com/maps/?q=-12.0054,-76.8933"
+  },
+  {
+    "name": "Tabalosos",
+    "pop": 14744,
+    "location": "https://www.google.com/maps/?q=-6.35,-76.6833"
+  },
+  {
+    "name": "San Ramon",
+    "pop": 14708,
+    "location": "https://www.google.com/maps/?q=-11.1242,-75.3573"
+  },
+  {
+    "name": "Celendin",
+    "pop": 14660,
+    "location": "https://www.google.com/maps/?q=-6.8659,-78.1459"
+  },
+  {
+    "name": "Chota",
+    "pop": 14240,
+    "location": "https://www.google.com/maps/?q=-6.55,-78.65"
+  },
+  {
+    "name": "Salinera Colan",
+    "pop": 14210,
+    "location": "https://www.google.com/maps/?q=-5.03333,-81.0667"
+  },
+  {
+    "name": "Puerto Santa",
+    "pop": 14066,
+    "location": "https://www.google.com/maps/?q=-8.98772,-78.6473"
+  },
+  {
+    "name": "Ascope",
+    "pop": 14015,
+    "location": "https://www.google.com/maps/?q=-7.71444,-79.1078"
+  },
+  {
+    "name": "Contamana",
+    "pop": 13885,
+    "location": "https://www.google.com/maps/?q=-7.33333,-75.0167"
+  },
+  {
+    "name": "Supe",
+    "pop": 13719,
+    "location": "https://www.google.com/maps/?q=-10.7975,-77.7131"
+  },
+  {
+    "name": "Eten",
+    "pop": 13693,
+    "location": "https://www.google.com/maps/?q=-6.90806,-79.8642"
+  },
+  {
+    "name": "Lamas",
+    "pop": 13693,
+    "location": "https://www.google.com/maps/?q=-6.41667,-76.5333"
+  },
+  {
+    "name": "Motupe",
+    "pop": 13681,
+    "location": "https://www.google.com/maps/?q=-6.15194,-79.7142"
+  },
+  {
+    "name": "Pativilca",
+    "pop": 13583,
+    "location": "https://www.google.com/maps/?q=-10.7,-77.7833"
+  },
+  {
+    "name": "Cajabamba",
+    "pop": 13486,
+    "location": "https://www.google.com/maps/?q=-7.61667,-78.05"
+  },
+  {
+    "name": "Bambamarca",
+    "pop": 13351,
+    "location": "https://www.google.com/maps/?q=-6.68333,-78.5333"
+  },
+  {
+    "name": "Azangaro",
+    "pop": 13290,
+    "location": "https://www.google.com/maps/?q=-14.9084,-70.1962"
+  },
+  {
+    "name": "Vice",
+    "pop": 12915,
+    "location": "https://www.google.com/maps/?q=-5.41667,-80.7833"
+  },
+  {
+    "name": "Chilca",
+    "pop": 12884,
+    "location": "https://www.google.com/maps/?q=-12.5211,-76.7372"
+  },
+  {
+    "name": "Atuncolla",
+    "pop": 12654,
+    "location": "https://www.google.com/maps/?q=-15.6833,-70.15"
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "pop": 12471,
+    "location": "https://www.google.com/maps/?q=-5.71667,-79.8833"
+  },
+  {
+    "name": "Morropon",
+    "pop": 12307,
+    "location": "https://www.google.com/maps/?q=-5.1868,-79.9708"
+  },
+  {
+    "name": "Zorritos",
+    "pop": 12261,
+    "location": "https://www.google.com/maps/?q=-3.68046,-80.6782"
+  },
+  {
+    "name": "Oxapampa",
+    "pop": 12000,
+    "location": "https://www.google.com/maps/?q=-10.5775,-75.4017"
+  },
+  {
+    "name": "Puerto Supe",
+    "pop": 11450,
+    "location": "https://www.google.com/maps/?q=-10.8013,-77.7433"
+  },
+  {
+    "name": "Concepcion",
+    "pop": 11330,
+    "location": "https://www.google.com/maps/?q=-11.9176,-75.314"
+  },
+  {
+    "name": "Villa Tupac Amaru",
+    "pop": 11159,
+    "location": "https://www.google.com/maps/?q=-13.7114,-76.1498"
+  },
+  {
+    "name": "Caras",
+    "pop": 10926,
+    "location": "https://www.google.com/maps/?q=-9.04692,-77.809"
+  },
+  {
+    "name": "Soritor",
+    "pop": 10858,
+    "location": "https://www.google.com/maps/?q=-6.13917,-77.1039"
+  },
+  {
+    "name": "Santa Rosa",
+    "pop": 10625,
+    "location": "https://www.google.com/maps/?q=-6.75772,-79.8275"
+  },
+  {
+    "name": "Puquio",
+    "pop": 10491,
+    "location": "https://www.google.com/maps/?q=-14.7,-74.1333"
+  },
+  {
+    "name": "Santiago",
+    "pop": 10449,
+    "location": "https://www.google.com/maps/?q=-14.1847,-75.7112"
+  },
+  {
+    "name": "Otuzco",
+    "pop": 10134,
+    "location": "https://www.google.com/maps/?q=-7.9,-78.5833"
+  },
+  {
+    "name": "Salaverry",
+    "pop": 10066,
+    "location": "https://www.google.com/maps/?q=-8.221,-78.977"
+  },
+  {
+    "name": "Chupaca",
+    "pop": 9877,
+    "location": "https://www.google.com/maps/?q=-12.0667,-75.2833"
+  },
+  {
+    "name": "Reque",
+    "pop": 9808,
+    "location": "https://www.google.com/maps/?q=-6.86556,-79.8178"
+  },
+  {
+    "name": "Olmos",
+    "pop": 9800,
+    "location": "https://www.google.com/maps/?q=-5.98472,-79.7453"
+  },
+  {
+    "name": "Ilabaya",
+    "pop": 9492,
+    "location": "https://www.google.com/maps/?q=-17.4208,-70.5133"
+  },
+  {
+    "name": "Sisa",
+    "pop": 9477,
+    "location": "https://www.google.com/maps/?q=-6.61085,-76.693"
+  },
+  {
+    "name": "Las Lomas",
+    "pop": 9450,
+    "location": "https://www.google.com/maps/?q=-4.65333,-80.2467"
+  },
+  {
+    "name": "El Alto",
+    "pop": 9303,
+    "location": "https://www.google.com/maps/?q=-4.26851,-81.2172"
+  },
+  {
+    "name": "Quiruvilca",
+    "pop": 9226,
+    "location": "https://www.google.com/maps/?q=-7.96667,-78.2"
+  },
+  {
+    "name": "Lagunas",
+    "pop": 9197,
+    "location": "https://www.google.com/maps/?q=-5.22694,-75.6753"
+  },
+  {
+    "name": "Calca",
+    "pop": 9179,
+    "location": "https://www.google.com/maps/?q=-13.3333,-71.95"
+  },
+  {
+    "name": "Carhuamayo",
+    "pop": 9122,
+    "location": "https://www.google.com/maps/?q=-10.9167,-76.0333"
+  },
+  {
+    "name": "Aguas Verdes",
+    "pop": 9106,
+    "location": "https://www.google.com/maps/?q=-3.48139,-80.245"
+  },
+  {
+    "name": "Mancora",
+    "pop": 9101,
+    "location": "https://www.google.com/maps/?q=-4.10778,-81.0475"
+  },
+  {
+    "name": "Subtanjalla",
+    "pop": 9096,
+    "location": "https://www.google.com/maps/?q=-14.0189,-75.7581"
+  },
+  {
+    "name": "Yauya",
+    "pop": 9092,
+    "location": "https://www.google.com/maps/?q=-8.98333,-77.3"
+  },
+  {
+    "name": "Campoverde",
+    "pop": 8945,
+    "location": "https://www.google.com/maps/?q=-8.47533,-74.8071"
+  },
+  {
+    "name": "San Luis",
+    "pop": 8862,
+    "location": "https://www.google.com/maps/?q=-12.0767,-76.9943"
+  },
+  {
+    "name": "Cocachacra",
+    "pop": 8799,
+    "location": "https://www.google.com/maps/?q=-17.0883,-71.7575"
+  },
+  {
+    "name": "San Jeronimo",
+    "pop": 8772,
+    "location": "https://www.google.com/maps/?q=-11.9559,-75.2841"
+  },
+  {
+    "name": "Pacanga",
+    "pop": 8750,
+    "location": "https://www.google.com/maps/?q=-7.16667,-79.5"
+  },
+  {
+    "name": "Huancabamba",
+    "pop": 8553,
+    "location": "https://www.google.com/maps/?q=-5.23861,-79.4506"
+  },
+  {
+    "name": "La Huaca",
+    "pop": 8468,
+    "location": "https://www.google.com/maps/?q=-4.91167,-80.96"
+  },
+  {
+    "name": "San Miguel",
+    "pop": 8400,
+    "location": "https://www.google.com/maps/?q=-13.0125,-73.9808"
+  },
+  {
+    "name": "Pilcomay",
+    "pop": 8169,
+    "location": "https://www.google.com/maps/?q=-12.0472,-75.2493"
+  },
+  {
+    "name": "Putina",
+    "pop": 8118,
+    "location": "https://www.google.com/maps/?q=-15.4764,-69.4329"
+  },
+  {
+    "name": "Chazuta",
+    "pop": 8029,
+    "location": "https://www.google.com/maps/?q=-6.57087,-76.1375"
+  },
+  {
+    "name": "Buenos Aires",
+    "pop": 7932,
+    "location": "https://www.google.com/maps/?q=-5.26083,-79.9642"
+  },
+  {
+    "name": "San Ignacio",
+    "pop": 7912,
+    "location": "https://www.google.com/maps/?q=-5.14583,-79.0014"
+  },
+  {
+    "name": "Morococha",
+    "pop": 7890,
+    "location": "https://www.google.com/maps/?q=-11.5997,-76.1411"
+  },
+  {
+    "name": "Los Aquijes",
+    "pop": 7848,
+    "location": "https://www.google.com/maps/?q=-14.0967,-75.6908"
+  },
+  {
+    "name": "Hacienda Huancane",
+    "pop": 7831,
+    "location": "https://www.google.com/maps/?q=-15.8233,-70.8854"
+  },
+  {
+    "name": "Pacocha",
+    "pop": 7588,
+    "location": "https://www.google.com/maps/?q=-17.646,-71.3448"
+  },
+  {
+    "name": "Urubamba",
+    "pop": 7540,
+    "location": "https://www.google.com/maps/?q=-13.3047,-72.1158"
+  },
+  {
+    "name": "Mochumi",
+    "pop": 7460,
+    "location": "https://www.google.com/maps/?q=-6.54364,-79.8622"
+  },
+  {
+    "name": "Villa Rica",
+    "pop": 7448,
+    "location": "https://www.google.com/maps/?q=-10.7394,-75.2697"
+  },
+  {
+    "name": "San Jose",
+    "pop": 7434,
+    "location": "https://www.google.com/maps/?q=-6.73813,-79.8275"
+  },
+  {
+    "name": "Coracora",
+    "pop": 7420,
+    "location": "https://www.google.com/maps/?q=-15.0333,-73.7833"
+  },
+  {
+    "name": "Talavera",
+    "pop": 7381,
+    "location": "https://www.google.com/maps/?q=-13.6531,-73.4292"
+  },
+  {
+    "name": "Juli",
+    "pop": 7309,
+    "location": "https://www.google.com/maps/?q=-16.2167,-69.45"
+  },
+  {
+    "name": "Cajaruro",
+    "pop": 7281,
+    "location": "https://www.google.com/maps/?q=-5.73639,-78.4256"
+  },
+  {
+    "name": "Jepelacio",
+    "pop": 7150,
+    "location": "https://www.google.com/maps/?q=-6.11667,-76.95"
+  },
+  {
+    "name": "Torata",
+    "pop": 7054,
+    "location": "https://www.google.com/maps/?q=-17.0769,-70.8433"
+  },
+  {
+    "name": "Tucume",
+    "pop": 7043,
+    "location": "https://www.google.com/maps/?q=-6.50637,-79.8572"
+  },
+  {
+    "name": "San Juan Bautista",
+    "pop": 6871,
+    "location": "https://www.google.com/maps/?q=-14.0108,-75.7358"
+  },
+  {
+    "name": "Ambo",
+    "pop": 6865,
+    "location": "https://www.google.com/maps/?q=-10.1308,-76.2047"
+  },
+  {
+    "name": "Perene",
+    "pop": 6844,
+    "location": "https://www.google.com/maps/?q=-10.9451,-75.2239"
+  },
+  {
+    "name": "Sicaya",
+    "pop": 6842,
+    "location": "https://www.google.com/maps/?q=-12.0333,-75.2833"
+  },
+  {
+    "name": "Mazamari",
+    "pop": 6826,
+    "location": "https://www.google.com/maps/?q=-11.3258,-74.5308"
+  },
+  {
+    "name": "Acolla",
+    "pop": 6805,
+    "location": "https://www.google.com/maps/?q=-11.7319,-75.5463"
+  },
+  {
+    "name": "Santiago de Chuco",
+    "pop": 6759,
+    "location": "https://www.google.com/maps/?q=-8.14099,-78.1733"
+  },
+  {
+    "name": "Huicungo",
+    "pop": 6757,
+    "location": "https://www.google.com/maps/?q=-7.3186,-76.7756"
+  },
+  {
+    "name": "Picota",
+    "pop": 6697,
+    "location": "https://www.google.com/maps/?q=-6.92033,-76.3314"
+  },
+  {
+    "name": "Morrope",
+    "pop": 6662,
+    "location": "https://www.google.com/maps/?q=-6.53536,-80.011"
+  },
+  {
+    "name": "Pangoa",
+    "pop": 6638,
+    "location": "https://www.google.com/maps/?q=-12.1167,-73"
+  },
+  {
+    "name": "Quilmana",
+    "pop": 6442,
+    "location": "https://www.google.com/maps/?q=-12.9486,-76.3811"
+  },
+  {
+    "name": "Punta de Bombon",
+    "pop": 6336,
+    "location": "https://www.google.com/maps/?q=-17.1719,-71.7924"
+  },
+  {
+    "name": "Oyotun",
+    "pop": 6330,
+    "location": "https://www.google.com/maps/?q=-6.84438,-79.3009"
+  },
+  {
+    "name": "Bellavista",
+    "pop": 6320,
+    "location": "https://www.google.com/maps/?q=-5.66417,-78.6772"
+  },
+  {
+    "name": "Oyon",
+    "pop": 6276,
+    "location": "https://www.google.com/maps/?q=-10.6685,-76.7717"
+  },
+  {
+    "name": "Vegueta",
+    "pop": 6219,
+    "location": "https://www.google.com/maps/?q=-11.0225,-77.6438"
+  },
+  {
+    "name": "Sayan",
+    "pop": 6196,
+    "location": "https://www.google.com/maps/?q=-11.1333,-77.1946"
+  },
+  {
+    "name": "Jayanca",
+    "pop": 6126,
+    "location": "https://www.google.com/maps/?q=-6.39083,-79.8219"
+  },
+  {
+    "name": "Macusani",
+    "pop": 6044,
+    "location": "https://www.google.com/maps/?q=-14.0833,-70.4333"
+  },
+  {
+    "name": "Lluta",
+    "pop": 5998,
+    "location": "https://www.google.com/maps/?q=-16.0147,-72.0142"
+  },
+  {
+    "name": "San Agustin",
+    "pop": 5998,
+    "location": "https://www.google.com/maps/?q=-11.9719,-75.2556"
+  },
+  {
+    "name": "Yanahuanca",
+    "pop": 5992,
+    "location": "https://www.google.com/maps/?q=-10.5167,-76.4986"
+  },
+  {
+    "name": "Bernal",
+    "pop": 5916,
+    "location": "https://www.google.com/maps/?q=-5.45,-80.75"
+  },
+  {
+    "name": "Palpa",
+    "pop": 5883,
+    "location": "https://www.google.com/maps/?q=-14.5336,-75.1856"
+  },
+  {
+    "name": "Anta",
+    "pop": 5859,
+    "location": "https://www.google.com/maps/?q=-13.4706,-72.1483"
+  },
+  {
+    "name": "Huayucachi",
+    "pop": 5827,
+    "location": "https://www.google.com/maps/?q=-12.1333,-75.2333"
+  },
+  {
+    "name": "Asentamiento Humano Nicolas de Pierola",
+    "pop": 5800,
+    "location": "https://www.google.com/maps/?q=-11.9357,-76.7061"
+  },
+  {
+    "name": "Barranca",
+    "pop": 5779,
+    "location": "https://www.google.com/maps/?q=-4.83298,-76.6758"
+  },
+  {
+    "name": "Pueblo Nuevo",
+    "pop": 5766,
+    "location": "https://www.google.com/maps/?q=-7.18806,-79.5153"
+  },
+  {
+    "name": "San Pedro de Cajas",
+    "pop": 5758,
+    "location": "https://www.google.com/maps/?q=-11.2506,-75.8612"
+  },
+  {
+    "name": "San Bartolo",
+    "pop": 5733,
+    "location": "https://www.google.com/maps/?q=-12.3833,-76.7833"
+  },
+  {
+    "name": "Yura",
+    "pop": 5686,
+    "location": "https://www.google.com/maps/?q=-16.2522,-71.6797"
+  },
+  {
+    "name": "Orcopampa",
+    "pop": 5643,
+    "location": "https://www.google.com/maps/?q=-15.2661,-72.3417"
+  },
+  {
+    "name": "San Jeronimo",
+    "pop": 5609,
+    "location": "https://www.google.com/maps/?q=-13.6514,-73.3639"
+  },
+  {
+    "name": "Pampas",
+    "pop": 5521,
+    "location": "https://www.google.com/maps/?q=-12.3949,-74.8669"
+  },
+  {
+    "name": "Caleta de Carquin",
+    "pop": 5514,
+    "location": "https://www.google.com/maps/?q=-11.0925,-77.6267"
+  },
+  {
+    "name": "Ramon Castilla",
+    "pop": 5495,
+    "location": "https://www.google.com/maps/?q=-4.26066,-69.9571"
+  },
+  {
+    "name": "Papayal",
+    "pop": 5484,
+    "location": "https://www.google.com/maps/?q=-4.07771,-80.7369"
+  },
+  {
+    "name": "Urcos",
+    "pop": 5479,
+    "location": "https://www.google.com/maps/?q=-13.6861,-71.6228"
+  },
+  {
+    "name": "Salitral",
+    "pop": 5385,
+    "location": "https://www.google.com/maps/?q=-4.85722,-80.6811"
+  },
+  {
+    "name": "Desaguadero",
+    "pop": 5329,
+    "location": "https://www.google.com/maps/?q=-16.5656,-69.0417"
+  },
+  {
+    "name": "San Miguel de Cauri",
+    "pop": 5326,
+    "location": "https://www.google.com/maps/?q=-10.1382,-76.6229"
+  },
+  {
+    "name": "Ayabaca",
+    "pop": 5270,
+    "location": "https://www.google.com/maps/?q=-4.63983,-79.7149"
+  },
+  {
+    "name": "Yungay",
+    "pop": 5269,
+    "location": "https://www.google.com/maps/?q=-9.13833,-77.7436"
+  },
+  {
+    "name": "Huasahuasi",
+    "pop": 5146,
+    "location": "https://www.google.com/maps/?q=-11.2653,-75.6472"
+  },
+  {
+    "name": "Tinyahuarco",
+    "pop": 5066,
+    "location": "https://www.google.com/maps/?q=-10.7677,-76.2752"
+  },
+  {
+    "name": "Carhuaz",
+    "pop": 5044,
+    "location": "https://www.google.com/maps/?q=-9.28194,-77.6447"
+  },
+  {
+    "name": "Tambo",
+    "pop": 5032,
+    "location": "https://www.google.com/maps/?q=-14.7985,-73.9244"
+  }
+]
